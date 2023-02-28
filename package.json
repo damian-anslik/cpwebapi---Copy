@@ -1,0 +1,28 @@
+{
+  "name": "client-portal-web-api-docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "highlightjs": "^9.16.2",
+    "marked": "^4.0.17",
+    "pinia": "^2.0.14",
+    "swagger-ui": "^4.12.0",
+    "vue": "^3.2.13",
+    "vue-code-highlight": "^0.7.8",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
